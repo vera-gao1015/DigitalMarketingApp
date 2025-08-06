@@ -1,2 +1,2 @@
-# First-Repository
-add a line
+# DigitalMarketingApp
+for INFO5001
